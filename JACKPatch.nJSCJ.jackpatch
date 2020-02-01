@@ -1,0 +1,4 @@
+Non-Sequencer.nEWKG:midi_out-1           |> ZynAddSubFX.nNNMH:midi_input
+Non-Sequencer.nEWKG:midi_out-2           |> ZynAddSubFX.nNNMH:midi_input
+ZynAddSubFX.nNNMH:out_1                  |> system:playback_1
+ZynAddSubFX.nNNMH:out_2                  |> system:playback_2
